@@ -1,0 +1,79 @@
+<Meta name="brigada6">
+  <hierarchy />
+  <messagelist>
+    <message status="normal" label="build" groupid="100006">
+      <User scope="brigada6" name="Main" status="normal" link="27231967" /><![CDATA[Generating network and source code 'C:\Learning\Maga1\Rele\Lr1\brigada6.gf42\Main.f'.]]></message>
+    <message status="error" label="build" groupid="310004">
+      <User scope="brigada6" name="master:datalabel" status="error" link="1912738722" /><![CDATA[Signal 'IPP1' name contention, cannot rename to 'INM']]></message>
+    <message status="error" label="build" groupid="310004">
+      <User scope="brigada6" name="master:datalabel" status="error" link="1994727126" /><![CDATA[Signal 'IPM1' name contention, cannot rename to 'IPM']]></message>
+    <message status="error" label="build" groupid="310004">
+      <User scope="brigada6" name="master:datalabel" status="error" link="1758771994" /><![CDATA[Signal 'IZM' name contention, cannot rename to 'IPP1']]></message>
+    <message status="error" label="build" groupid="310004">
+      <User scope="brigada6" name="master:datalabel" status="error" link="1265130443" /><![CDATA[Signal 'IPP' name contention, cannot rename to 'IPP1']]></message>
+    <message status="error" label="build" groupid="310004">
+      <User scope="brigada6" name="master:datalabel" status="error" link="585240233" /><![CDATA[Signal 'INP' name contention, cannot rename to 'IPP1']]></message>
+    <message status="error" label="build" groupid="310004">
+      <User scope="brigada6" name="master:datalabel" status="error" link="2032012961" /><![CDATA[Signal 'IZP' name contention, cannot rename to 'IPP1']]></message>
+    <message status="error" label="build" groupid="309500">
+      <User scope="brigada6" name="master:datatap" status="error" link="1638746128" /><![CDATA[Signal 'IPP1' dimension mismatch -> 7 != 1]]></message>
+    <message status="error" label="build" groupid="309500">
+      <User scope="brigada6" name="master:datatap" status="error" link="1538790133" /><![CDATA[Signal 'IPM1' dimension mismatch -> 7 != 1]]></message>
+    <message status="error" label="build" groupid="309500">
+      <User scope="brigada6" name="master:datatap" status="error" link="1591061893" /><![CDATA[Signal 'IZM' dimension mismatch -> 7 != 1]]></message>
+    <message status="error" label="build" groupid="309500">
+      <User scope="brigada6" name="master:datatap" status="error" link="618313653" /><![CDATA[Signal 'IPP' dimension mismatch -> 7 != 1]]></message>
+    <message status="error" label="build" groupid="309500">
+      <User scope="brigada6" name="master:datatap" status="error" link="648607769" /><![CDATA[Signal 'INP' dimension mismatch -> 7 != 1]]></message>
+    <message status="error" label="build" groupid="309500">
+      <User scope="brigada6" name="master:datatap" status="error" link="78807285" /><![CDATA[Signal 'IZP' dimension mismatch -> 7 != 1]]></message>
+    <message status="error" label="build" groupid="307502">
+      <User scope="brigada6" name="master:datamerge" status="error" link="1307863670" /><![CDATA[Input port 'A1:Dim1' is floating. A signal source must be provided.]]></message>
+    <message status="error" label="build" groupid="310005">
+      <User scope="brigada6" name="master:fft" status="error" link="1894065604" /><![CDATA[Signal 'INP' source contention at component [fft] 'UserCmp'.]]></message>
+    <message status="error" label="build" groupid="310005">
+      <User scope="brigada6" name="master:fft" status="error" link="1894065604" /><![CDATA[Signal 'IZP' source contention at component [fft] 'UserCmp'.]]></message>
+    <message status="error" label="build" groupid="310005">
+      <User scope="brigada6" name="master:fft" status="error" link="1894065604" /><![CDATA[Signal 'IPP1' source contention at component [fft] 'UserCmp'.]]></message>
+    <message status="error" label="build" groupid="310005">
+      <User scope="brigada6" name="master:fft" status="error" link="1894065604" /><![CDATA[Signal 'IPM1' source contention at component [fft] 'UserCmp'.]]></message>
+    <message status="error" label="build" groupid="310005">
+      <User scope="brigada6" name="master:fft" status="error" link="1894065604" /><![CDATA[Signal 'IZM' source contention at component [fft] 'UserCmp'.]]></message>
+    <message status="error" label="build" groupid="310005">
+      <User scope="brigada6" name="master:fft" status="error" link="1894065604" /><![CDATA[Signal 'IPP' source contention at component [fft] 'UserCmp'.]]></message>
+    <message status="error" label="build" groupid="301504">
+      <User scope="brigada6" name="master:datatap" status="error" link="1538790133" /><![CDATA[Tap array index out of bounds of the input signal 'IPM' (maximum = 0).]]></message>
+    <message status="error" label="build" groupid="300002">
+      <User scope="brigada6" name="master:datatap" status="error" link="1538790133" /><![CDATA[ Output array index exceeds input array bounds ]]></message>
+    <message status="normal" label="build" scope="brigada6" groupid="400000"><![CDATA[Time for Compile: 47ms  Make: 0ms]]></message>
+    <message status="normal" label="build" scope="brigada6" groupid="400001"><![CDATA[======== Build: 21 errors, 0 warnings ========]]></message>
+  </messagelist>
+  <List classid="View">
+    <View name="Main" zoomlevel="4" scrollx="0" scrolly="96" />
+    <View name="TLine_1" zoomlevel="6" scrollx="0" scrolly="0" />
+    <View name="TLine_3" zoomlevel="6" scrollx="0" scrolly="0" />
+    <View name="TLine_2" zoomlevel="6" scrollx="0" scrolly="0" />
+    <View name="Cable_1" zoomlevel="6" scrollx="0" scrolly="0" />
+  </List>
+  <ViewContext>
+    <Window defn="brigada6:Main" call="0" />
+  </ViewContext>
+  <Catalog count="0" />
+  <Output device="EMTDC" version="2010" date="2024/10/14" time="09:34:13.000000">
+    <Domain name="Time" unit="s" mult="0.0" skew="0.0">
+      <Sample rate="4000.0" end="2000" />
+    </Domain>
+    <List classid="Analog">
+      <Analog name="Main(0):E3a" index="0" id="1357037553:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Tin" index="1" id="525169747:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Ik" index="2" id="1829150072:0" label="" dim="6" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):E5a" index="8" id="124644789:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):E4a" index="9" id="227836176:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Mh" index="10" id="882171522:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):E2a" index="11" id="737493378:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Ikz" index="12" id="903658436:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):E1a" index="13" id="1836844968:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    </List>
+    <List classid="Digital" />
+  </Output>
+</Meta>
