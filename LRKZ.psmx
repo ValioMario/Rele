@@ -1,0 +1,58 @@
+<Meta name="LRKZ">
+  <messagelist>
+    <message status="normal" label="build" scope="LRKZ" groupid="100006"><![CDATA[Generating 'C:\Learning\Maga1\Rele\Lr1\LRKZ.gf42\LRKZ.map'.]]></message>
+    <message status="normal" label="build" scope="LRKZ" groupid="100014"><![CDATA[The total number of live nodes: 33]]></message>
+    <message status="normal" label="build" scope="LRKZ" groupid="400000"><![CDATA[Time for Compile: 0ms  Make: 0ms]]></message>
+    <message status="normal" label="build" scope="LRKZ" groupid="100015"><![CDATA[Will execute (1): call C:\Program Files (x86)\GFortran\4.2.1\bin\gf42vars.bat]]></message>
+    <message status="normal" label="build" scope="LRKZ" groupid="100015"><![CDATA[Will execute (1): call "C:\Program Files (x86)\GFortran\4.2.1\bin\gf42vars.bat"]]></message>
+    <message status="normal" label="build" scope="LRKZ" groupid="100015"><![CDATA[Will execute (2): make -f LRKZ.mak]]></message>
+    <message status="normal" label="build" scope="LRKZ" groupid="100015"><![CDATA[Will execute (2): "C:\Learning\Maga1\Rele\Lr1\LRKZ.gf42\LRKZ.mak.bat"]]></message>
+    <message status="normal" label="build" scope="LRKZ" groupid="100005"><![CDATA[Creating EMTDC executable...]]></message>
+    <message status="normal" label="build" scope="LRKZ" groupid="0"><![CDATA[C:\Learning\Maga1\Rele\Lr1\LRKZ.gf42>call "C:\Program Files (x86)\GFortran\4.2.1\bin\gf42vars.bat" ]]></message>
+    <message status="normal" label="build" scope="LRKZ" groupid="100012"><![CDATA[Linking objects and libraries into binary 'LRKZ.exe']]></message>
+    <message status="normal" label="build" scope="LRKZ" groupid="400000"><![CDATA[Solve Time = 15ms]]></message>
+  </messagelist>
+  <ViewContext>
+    <Window defn="LRKZ:Main" />
+  </ViewContext>
+  <List classid="View">
+    <View name="Main" zoomlevel="7" scrollx="3304" scrolly="0" />
+    <View name="Cable_1" zoomlevel="6" scrollx="0" scrolly="0" />
+    <View name="TLine_1" zoomlevel="6" scrollx="0" scrolly="0" />
+    <View name="TLine_3" zoomlevel="6" scrollx="0" scrolly="0" />
+    <View name="TLine_2" zoomlevel="6" scrollx="0" scrolly="0" />
+  </List>
+  <Catalog count="0" />
+  <Output device="EMTDC" version="2010" date="2024/10/13" time="18:18:24.000000">
+    <Domain name="Time" unit="s" mult="0.0" skew="0.0">
+      <Sample rate="4000.0" end="40000" />
+    </Domain>
+    <List classid="Analog">
+      <Analog name="Main(0):Pn1" index="0" id="446037833:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Qn1" index="1" id="810634307:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Pc1" index="2" id="1970550357:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Qc1" index="3" id="1536198126:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Pt1" index="4" id="150296774:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Pc2" index="5" id="328298567:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Qt1" index="6" id="88884555:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Pd11" index="7" id="306176396:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Qc2" index="8" id="330711923:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Qd11" index="9" id="1383521865:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Pt2" index="10" id="486658433:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Pd1" index="11" id="1207600151:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Qt2" index="12" id="2096844888:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Qd1" index="13" id="1764676524:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Ik" index="14" id="1927345195:0" label="" dim="6" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Mh" index="20" id="1666147435:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Tin" index="21" id="1250811265:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):E6a" index="22" id="85369739:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):E5a" index="23" id="1822812074:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):E4a" index="24" id="1584365479:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):E3a" index="25" id="181689885:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):E2a" index="26" id="1048368372:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):E1a" index="27" id="2010227560:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Ikz" index="28" id="1282224988:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    </List>
+    <List classid="Digital" />
+  </Output>
+</Meta>
